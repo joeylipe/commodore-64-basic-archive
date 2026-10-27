@@ -8,9 +8,9 @@ The programs explore fundamental programming concepts, including user input, con
 
 | Program | Description |
 |---|---|
-| `pickup-or-delivery.bas` | Uses conditional statements to process a pickup or delivery selection. |
 | `insult-response.bas` | Repeats a response to user input until an exit command is entered. |
 | `name-repeater.bas` | Uses a FOR loop to print a name 50 times. |
+| `pickup-or-delivery.bas` | Uses conditional statements to process a pickup or delivery selection. |
 | `screen-drawing.bas` | Uses POKE commands to draw directly into Commodore 64 screen memory. |
 
 ## About
