@@ -1,8 +1,8 @@
 # Commodore 64 BASIC Archive
 
-A small collection of Commodore 64 BASIC programs I wrote while completing cybersecurity coursework at Lincoln Land Community College.
+A collection of introductory Commodore 64 BASIC programs written during my cybersecurity coursework at Lincoln Land Community College between 2021 and 2023.
 
-These programs are introductory exercises covering basic programming concepts, including user input, conditional statements, loops, and screen memory manipulation.
+The programs explore fundamental programming concepts, including user input, conditional statements, loops, and direct screen memory manipulation.
 
 ## Programs
 
@@ -15,4 +15,4 @@ These programs are introductory exercises covering basic programming concepts, i
 
 ## About
 
-These programs are preserved as examples of my early programming coursework. They are not intended to represent my current programming experience.
+These programs are preserved as examples of my early programming coursework and an introduction to programming in Commodore 64 BASIC.
